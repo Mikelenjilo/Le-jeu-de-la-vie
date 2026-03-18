@@ -21,7 +21,7 @@ A Flutter implementation of Conway's Game of Life built with the [Flame](https:/
 - **Infinite grid** — pan in any direction forever, the grid has no bounds
 - **Tap to toggle** — tap any cell to make it alive or dead
 - **Drag to pan** — drag the grid to explore any area
-- **Zoom in / out** — pinch or use the buttons to zoom between 0.2x and 5x
+- **Zoom in / out** — use the buttons to zoom between 0.2x and 5x
 - **Manual stepping** — press Next Gen to advance one generation at a time
 - **Continuous simulation** — press Play to run the simulation automatically
 - **5 speed settings** — cycle through 1x, 2x, 5x, 20x and 100x speed
