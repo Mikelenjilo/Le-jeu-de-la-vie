@@ -6,9 +6,6 @@ A Flutter implementation of Conway's Game of Life built with the [Flame](https:/
 
 ## Screenshots
 
-> 📸 Replace the placeholders below with your own screenshots.
-> To take them: run the app on an emulator or device, press the screenshot button, then add the images to an `assets/screenshots/` folder in your repo.
-
 |               Random Start               |                Drawing Mode                |             Running Simulation             |
 | :--------------------------------------: | :----------------------------------------: | :----------------------------------------: |
 | ![Random](assets/screenshots/random.png) | ![Drawing](assets/screenshots/drawing.png) | ![Running](assets/screenshots/running.gif) |
